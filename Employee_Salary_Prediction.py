@@ -12,7 +12,7 @@ import pandas as pd
 # In[2]:
 
 
-data=pd.read_csv(r"C:\Users\NITHYA SRI\Downloads\adult 3.csv")
+data=pd.read_csv(r"C:\Users\NITHYA SRI\Downloads\adult3.csv")
 
 
 # In[3]:
